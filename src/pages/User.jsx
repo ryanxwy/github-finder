@@ -11,7 +11,7 @@ function User() {
 
     const params = useParams()
 
-    useEffect( async () => {
+    useEffect( () => {
         dispatch({type: 'SET_LOADING'})
 
         const getUserData = async () => {
