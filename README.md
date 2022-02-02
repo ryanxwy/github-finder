@@ -1,5 +1,5 @@
 # Github Finder App: it can search Github users and display their info.
-# please click to see the details
+# please click 'https://github-finder-wyx.vercel.app/' to see the details
 
 ## Features
 1. Created a responsive application built with Tailwind framework and deployed on Vercel.
